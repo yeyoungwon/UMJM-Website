@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Star Trek exploration into the usage of data obtained from unethical medical experiments"
+categories: [ Articles, Perspectives ]
+image: assets/images/V1C.png
+---
+
+<a href = "/assets/documents/V1I1A2.pdf"> Full Article </a>

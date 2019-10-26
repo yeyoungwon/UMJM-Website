@@ -1,0 +1,8 @@
+---
+layout: post
+title: "See one, do one, teach one: re-thinking the teaching of procedural skills in medicine"
+categories: [ Articles, Current Topics ]
+image: assets/images/V1C.png
+---
+
+<a href = "/assets/documents/V1I1A4.pdf"> Full Article </a>
