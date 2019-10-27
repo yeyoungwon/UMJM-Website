@@ -3227,7 +3227,9 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   padding-left: 0;
   margin-bottom: 0;
-  list-style: none; }
+  list-style: none; 
+
+}
 
 .nav-link {
   display: block;
@@ -3290,7 +3292,8 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 0.3rem 1rem; }
+  padding: 0.3rem 1rem; 
+background-color: rgb(75, 124, 152);}
   .navbar > .container,
   .navbar > .container-fluid {
     display: flex;
@@ -5145,7 +5148,7 @@ button.bg-lightblue:focus {
   background-color: #c6e2d0 !important; }
 
 .bg-white {
-  background-color: #fff !important; }
+  background-color: #FFF !important; }
 
 .bg-transparent {
   background-color: transparent !important; }
