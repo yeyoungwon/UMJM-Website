@@ -5,16 +5,21 @@ pagination:
     enabled: true
 description: "University of Manitoba Journal of Medicine"
 ---
-
+<div class="row remove-site-content-margin">
+    <div id="indexheader">
+        <img id="headerimg" src="assets/images/navlogofull.png"/>
+    </div>
+</div>
 
 <div class="container">
     
 {% if page.url == "/" %}
     
-    
-    
+
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
+
+
+<div class="row remove-site-content-margin" style="margin-top:75px;">
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
