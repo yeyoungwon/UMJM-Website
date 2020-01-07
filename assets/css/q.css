@@ -29,6 +29,11 @@
 }
 
 /* About Nav */
+.about-nav{
+    position:sticky;
+    height:400px;
+    top:80px;
+}
 .about-nav-link {
     color:grey;
 }
@@ -50,14 +55,14 @@
 }
 .editor-pic {
     height:200px;
-    width:200px;
+    min-width:200px;
 }
 .editor-pic img {
     height:200px;
-    width:200px;
+    min-width:200px;
 }
 .editor-info {
-    width:75%;
+    width:90%;
     margin-left:25px;
     /*margin-top:auto;
     margin-bottom:auto;*/

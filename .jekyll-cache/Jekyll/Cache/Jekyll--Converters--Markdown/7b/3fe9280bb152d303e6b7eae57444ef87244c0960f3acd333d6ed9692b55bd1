@@ -1,11 +1,6 @@
----
-title: "About the Editors"
-layout: default
----
-<div id="indexheader"></div>
-<div class="container">
+I"w<div class="container">
     <div class="row">
-        <div class="col-md-2 about-nav">
+        <div class="col-md-2">
             <h3 class="font-weight-bold spanborder"><span>About</span></h3>
             <h4 class="about-nav-current-page"><span>The Journal</span></h4>
             <a href="/abouteditors/" class="about-nav-link"><h4><span>The Editors</span></h4></a>
@@ -27,3 +22,4 @@ layout: default
         </div>
     </div>
 </div>
+:ET
