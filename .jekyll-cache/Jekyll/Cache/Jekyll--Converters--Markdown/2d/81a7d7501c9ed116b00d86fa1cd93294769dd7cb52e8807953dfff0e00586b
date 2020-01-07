@@ -1,16 +1,11 @@
----
-title: "About the Editors"
-layout: default
----
-
-<div class="container">
+I"_<div class="container">
     <div class="row">
         <div class="col-md-2">
             <h3 class="font-weight-bold spanborder"><span>About</span></h3>
             <a href="/aboutjournal/" class="about-nav-link"><h4><span>The Journal</span></h4></a>
             <h4 class="about-nav-current-page"><span>The Editors</span></h4>
             <a href="#editorial-team" class="about-nav-link"><h6><span>Editorial Team</span></h6></a>
-            <a href="#it-design-team" class="about-nav-link"><h6><span>IT & Design Team</span></h6></a>
+            <a href="#it-design-team" class="about-nav-link"><h6><span>IT &amp; Design Team</span></h6></a>
             <a href="#social-media-team" class="about-nav-link"><h6><span>Social Media Team</span></h6></a>
         </div>
         <div class="col-md-6">
@@ -58,7 +53,7 @@ layout: default
                 </div>
                 <div class="editor-info">
                     <h2>Anidude Agarwal</h2>
-                    <p class="excerpt">IT & Design Editor</p>
+                    <p class="excerpt">IT &amp; Design Editor</p>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
@@ -70,7 +65,7 @@ layout: default
                 </div>
                 <div class="editor-info">
                     <h2>Qiming Hu</h2>
-                    <p class="excerpt">IT & Design Editor</p>
+                    <p class="excerpt">IT &amp; Design Editor</p>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
@@ -82,7 +77,7 @@ layout: default
                 </div>
                 <div class="editor-info">
                     <h2>Alex Chin</h2>
-                    <p class="excerpt">IT & Design Editor</p>
+                    <p class="excerpt">IT &amp; Design Editor</p>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
@@ -104,3 +99,4 @@ layout: default
         </div>
     </div>
 </div>
+:ET
