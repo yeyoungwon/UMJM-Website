@@ -35,9 +35,13 @@
 .about-nav-link:hover {
     color:black;
 }
+.about-nav-link h6{
+    margin-left:30px;
+}
 .about-nav-current-page {
     color:black;
 }
+
 
 /* Editor Page */
 .editor-box {
