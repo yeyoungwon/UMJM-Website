@@ -1,0 +1,251 @@
+I"l<div id="indexheader">
+    <img id="headerimg" src="assets/images/navlogofull.png" />
+</div>
+
+<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/See-One/">See one, do one, teach one: re-thinking the teaching of procedural skills in medicine</a>
+	</h2>
+	<p class="excerpt">
+	    Full Article 
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#articles">Articles</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#current topics">Current Topics</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 20, 2018
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/See-One/">
+	<img class="w-100" src="/assets/images/V1C.jpg" alt="See one, do one, teach one: re-thinking the teaching of procedural skills in medicine" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Narrative-Medicine/">Narrative medicine: a personal interview with expert Rita Charon</a>
+	</h2>
+	<p class="excerpt">
+	    Full Article 
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#articles">Articles</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#interviews">Interviews</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 20, 2018
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Narrative-Medicine/">
+	<img class="w-100" src="/assets/images/V1C.jpg" alt="Narrative medicine: a personal interview with expert Rita Charon" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Mary-Jane/">Legalizing Mary Jane: past, present, and future use of cannabis in medicine</a>
+	</h2>
+	<p class="excerpt">
+	    Full Article 
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#articles">Articles</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#current topics">Current Topics</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 20, 2018
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Mary-Jane/">
+	<img class="w-100" src="/assets/images/V1C.jpg" alt="Legalizing Mary Jane: past, present, and future use of cannabis in medicine" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Glacies-Incognita/">Glacies Incognita</a>
+	</h2>
+	<p class="excerpt">
+	    Full Article 
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#articles">Articles</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#reflections">Reflections</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 20, 2018
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Glacies-Incognita/">
+	<img class="w-100" src="/assets/images/V1C.jpg" alt="Glacies Incognita" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Canadian-Medical-Graduate/">The increase in unmatched Canadian medical graduates: who is to blame and should we be concerned?</a>
+	</h2>
+	<p class="excerpt">
+	    Full Article 
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#articles">Articles</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#current topics">Current Topics</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 20, 2018
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Canadian-Medical-Graduate/">
+	<img class="w-100" src="/assets/images/V1C.jpg" alt="The increase in unmatched Canadian medical graduates: who is to blame and should we be concerned?" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/">&laquo; Prev</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
+                
+              
+
+              
+                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Volume-2-Issue-1/" class="text-dark">Volume 2 Issue 1</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#issues">Issues</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Volume-1-Issue-1/" class="text-dark">Volume 1 Issue 1</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#issues">Issues</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+</div>
+:ET

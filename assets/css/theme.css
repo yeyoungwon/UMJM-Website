@@ -7,7 +7,8 @@ body {
 	padding-top:69.75px;
 }
 .site-content {
-	margin-top:50px;
+    /*margin-top:50px;*/
+	margin-top:21.594px;
 	min-height:400px;
 }
 .remove-site-content-margin {
@@ -804,4 +805,3 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
