@@ -1,50 +1,51 @@
----
-title: "About the Editors"
-layout: default
----
-<script>
+I"è<script>
     // fadeIn fades the abouteditors menu in
     function fadeIn() { var i; for (i = 1; i < 4; i++) { document.getElementsByClassName('about-nav-link')[i].className += ' load' } }
     fadeIn();
 </script>
+
 <body onload="fadeIn();">
 <div id="indexheader"></div>
 <div class="container">
     <div class="row">
-        <div class="about-nav col-md-1">
+        <div class="about-nav col-md-2">
             <h3 class="font-weight-bold spanborder"><span>About</span></h3>
             <a href="/aboutjournal/" class="about-nav-link"><h4><span>The Journal</span></h4></a>
             <h4 class="about-nav-current-page"><span>The Editors</span></h4>
             <a href="#editorial-team" class="about-nav-link"><h6><span>Editorial Team</span></h6></a>
 			<a href="#submission-editor-team" class="about-nav-link"><h6><span>Submission Editor Team</span></h6></a>
-            <a href="#it-design-team" class="about-nav-link"><h6><span>IT & Design Team</span></h6></a>
+            <a href="#it-design-team" class="about-nav-link"><h6><span>IT &amp; Design Team</span></h6></a>
             <a href="#social-media-team" class="about-nav-link"><h6><span>Social Media Team</span></h6></a>
         </div>
 		
-        <div class="col-md-9" id="editor-list">
+        <div class="col-md-8" id="editor-list">
             <a class="anchor" id="editorial-team"></a>
             <h3 class="font-weight-bold spanborder "><span>Editorial Team</span></h3>
+			<div class="col-6">
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Megan Sorokopud-Jones</h2>
                     <p class="excerpt">Co-Editor in Chief</p>
                 </div>
+            </div>
 			</div>
+			<div class="col-6">
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Dov Kagan</h2>
                     <p class="excerpt">Co-Editor in Chief</p>
                 </div>
+            </div>
 			</div>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Emma Avery</h2>
@@ -53,7 +54,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Graham McLeod</h2>
@@ -62,7 +63,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Lindsay Bristow</h2>
@@ -71,7 +72,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Eagan Peters</h2>
@@ -80,7 +81,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Victoria Lee-Wang</h2>
@@ -89,7 +90,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Nebojsa Oravec</h2>
@@ -101,7 +102,7 @@ layout: default
             <h3 class="font-weight-bold spanborder"><span>Submission Editor Team</span></h3>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Francis Diaz</h2>
@@ -110,7 +111,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Matt Stecy</h2>
@@ -119,7 +120,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Angus Lau</h2>
@@ -128,7 +129,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Kitty Toews</h2>
@@ -137,7 +138,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Karam Al-Bayati</h2>
@@ -146,7 +147,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Andrew Pierce</h2>
@@ -159,7 +160,7 @@ layout: default
             <h3 class="font-weight-bold spanborder"><span>IT and Design Team</span></h3>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Anirudh Agarwal</h2>
@@ -168,20 +169,20 @@ layout: default
             </div>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Qiming Hu</h2>
-                    <p class="excerpt">Senior Editor of Design & IT</p>
+                    <p class="excerpt">Senior Editor of Design &amp; IT</p>
                 </div>
             </div>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Alex Chin</h2>
-                    <p class="excerpt">Junior Editor of Design & IT</p>
+                    <p class="excerpt">Junior Editor of Design &amp; IT</p>
                 </div>
             </div>
 			
@@ -189,7 +190,7 @@ layout: default
             <h3 class="font-weight-bold spanborder"><span>Social Media Team</span></h3>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="/assets/images/unknown.jpg" />
                 </div>
                 <div class="editor-info">
                     <h2>Amy Lee</h2>
@@ -200,3 +201,4 @@ layout: default
     </div>
 </div>
 </body>
+:ET

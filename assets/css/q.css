@@ -71,8 +71,11 @@ a.anchor {
 }
 /* Editor Page */
 .editor-box {
-    display:flex;
-    margin-bottom:30px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 220px;
+    margin-bottom:10px;
 }
 .editor-pic {
     height:200px;
@@ -83,12 +86,5 @@ a.anchor {
     min-width:200px;
 }
 .editor-info {
-    width:90%;
-    margin-left:25px;
-    /*margin-top:auto;
-    margin-bottom:auto;*/
-}
-.editor-info p,h2{
-    margin-top:0px;
-    margin-bottom:0px;
+	display: block
 }
