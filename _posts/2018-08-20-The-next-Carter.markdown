@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The next *Carter*? Medical assistance in dying and mature minors"
+title:  The next <i>Carter</i>? Medical assistance in dying and mature minors
 categories: [ Articles, Perspectives ]
 image: assets/images/V1C.jpg
 ---
