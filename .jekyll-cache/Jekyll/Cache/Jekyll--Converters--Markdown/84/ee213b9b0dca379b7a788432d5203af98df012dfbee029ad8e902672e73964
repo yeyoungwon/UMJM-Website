@@ -1,0 +1,208 @@
+I"�E<script>
+    // fadeIn fades the abouteditors menu in
+    function fadeIn() { var i; for (i = 1; i < 4; i++) { document.getElementsByClassName('about-nav-link')[i].className += ' load' } }
+    fadeIn();
+</script>
+
+<body onload="fadeIn();">
+<div id="indexheader"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2 about-nav">
+            <h3 class="font-weight-bold spanborder"><span>Submissions</span></h3>
+            <a href="#submission-guidelines" class="about-nav-link"><h5><span>Guidelines</span></h5></a>
+            <a href="#author-eligibility" class="about-nav-link"><h5><span>Author Eligibility</span></h5></a>
+            <a href="#article-eligibility" class="about-nav-link"><h5><span>Article Eligibility</span></h5></a>
+            <a href="#ethics" class="about-nav-link"><h5><span>Ethics</span></h5></a>
+            <a href="#how-to-submit" class="about-nav-link"><h5><span>How to Submit</span></h5></a>
+            <a href="#peer-review-process" class="about-nav-link"><h5><span>Peer Review Process</span></h5></a>
+            <a href="#manuscript-requirements" class="about-nav-link"><h5><span>Manuscript Requirements</span></h5></a>
+            <a href="#manuscript-formatting" class="about-nav-link"><h5><span>Manuscript Formatting</span></h5></a>
+            <a href="#title-page" class="about-nav-link"><h5><span>Title Page</span></h5></a>
+            <a href="#abstract" class="about-nav-link"><h5><span>Abstract</span></h5></a>
+            <a href="#open-access-policy" class="about-nav-link"><h5><span>Open Access Policy</span></h5></a>
+            <a href="#copyright-notice" class="about-nav-link"><h5><span>Copyright Notice</span></h5></a>
+            <a href="#privacy-statement" class="about-nav-link"><h5><span>Privacy Statement</span></h5></a>
+            <a href="#Contact" class="about-nav-link"><h5><span>Contact</span></h5></a>
+        </div>
+        <div class="col-md-8">
+            <a class="anchor" id="submission-guidelines"></a>
+            <h3 class="font-weight-bold spanborder"><span>Submission Guidelines</span></h3>
+            <p>
+                The University of Manitoba Journal of Medicine (UMJM) is a student-run, peer-reviewed medical journal. We seek to support students’ scholarship, innovation, and critical literacy in medicine. The UMJM welcomes submissions ranging from original research and review articles to commentaries, opinion pieces, and biographies. Overall, we strive to provide students with the opportunity to foster skills in academic writing and publish on emerging topics in medicine. In doing so, the UMJM may serve as a tool for learning as well as discussion for important topics relevant to our readership.
+            </p>
+            <a class="anchor" id="author-eligibility"></a>
+            <h2><span>Author Eligibility</span></h2>
+            <p>
+                We welcome submissions from all students in the University of Manitoba Rady Faculty of Health Sciences as well as from external authors. This includes but is not limited to students and faculty from medical schools other than the Max Rady College of Medicine. Preference is given to student authors.
+            </p>
+            <a class="anchor" id="article-eligibility"></a>
+            <h2><span>Article Eligibility</span></h2>
+            <p>
+                All submissions to the UMJM should be original works that have not been previously published or under consideration for publication in another journal. Manuscripts should be written for a general medical audience and reference using Vancouver style. Submissions should be coherent, well-written, and use proper mechanics. Where applicable, articles must use appropriate methodology, demonstrate scientific rigour, and adhere to proper ethical conduct.
+            </p>
+            <h4><span>Format</span></h4>
+            <p>The UMJM accepts articles in the following formats:</p>
+            <ul>
+                <li>Original research (full-length or research letters/interim reports)</li>
+                <li>Reviews (narrative, literature, systematic</li>
+                <li>Case/clinical reports</li>
+                <li>Perspective pieces/commentaries/essays</li>
+                <li>Interviews</li>
+                <li>Opinion pieces, “news and views”, etc.</li>
+                <li>Letter to the editor</li>
+                <li>Medical book reviews</li>
+                <li>Medical biography</li>
+            </ul>
+            <p>If you have an idea for a piece in a format other than those listed above, we would be happy to consider it. Please e-mail the Co-Editors in Chief at umjmed@gmail.com with your idea and they will get back to you.</p>
+            <h4><span>Topics</span></h4>
+            <p>In general, the UMJM accepts articles that address clinically relevant ideas in medical practice. These include but are not limited to:</p>
+            <ul>
+                <li>Medical science</li>
+                <li>Clinical or surgical medicine</li>
+                <li>Epidemiology</li>
+                <li>Social determinants of health</li>
+                <li>Global health</li>
+                <li>Technology in medicine</li>
+            </ul>
+            <p>The UMJM also accepts manuscripts that examine themes topical and/or relevant to medical students. These include but are not limited to:</p>
+            <ul>
+                <li>COVID-19</li>
+                <li>Medical education</li>
+                <li>Historical analysis/history of medicine</li>
+                <li>Medical ethics/philosophy</li>
+                <li>Sociology of medicine</li>
+                <li>Medical humanities</li>
+                <li>Narrative medicine</li>
+            </ul>
+            <a class="anchor" id="ethics"></a>
+            <h2><span>Ethics</span></h2>
+            <p>
+                The UMJM adheres to "Ethical Considerations in the Conduct and Reporting of Research" set forth by the International Committee of Medical Journal Editors where applicable:
+            </p>
+            <h4><span>Informed Consent</span></h4>
+            <p>
+                Patients have a right to privacy that should not be violated without informed consent. Identifying information, including names, initials, or hospital numbers, should not be published in written descriptions, photographs, or pedigrees unless the information is essential for scientific purposes and the patient (or parent or guardian) gives written informed consent for publication. Informed consent for this purpose requires that an identifiable patient be shown the manuscript to be published. Authors should disclose to these patients whether any potential identifiable material might be available via the Internet as well as in print after publication.
+            </p>
+            <p>
+                Nonessential identifying details should be omitted. Informed consent should be obtained if there is any doubt that anonymity can be maintained. For example, masking the eye region in photographs of patients is inadequate protection of anonymity. If identifying characteristics are altered to protect anonymity, such as in genetic pedigrees, authors should provide assurance, and editors should so note, that such alterations do not distort scientific meaning.
+            </p>
+            <p>
+                When informed consent has been obtained, it should be indicated in the published article.
+            </p>
+            <h4><span>Conflict of Interest</span></h4>
+            <p>
+                When authors submit a manuscript, whether an article or a letter, they are responsible for disclosing all financial and personal relationships that might bias their work. To prevent ambiguity, authors must state explicitly whether potential conflicts do or do not exist. Authors should do so in the manuscript on a conflict-of-interest notification page that follows the title page, providing additional detail, if necessary, in a cover letter that accompanies the manuscript.
+            </p>
+            <p>
+                Authors should identify Individuals who provide writing or other assistance and disclose the funding source for this assistance.
+            </p>
+            <p>
+                Investigators must disclose potential conflicts to study participants and should state in the manuscript whether they have done so.
+            </p>
+            <h4><span>Human and Animal Testing</span></h4>
+            <p>
+                When reporting experiments on human subjects, authors should indicate whether the procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional and national) and with the Helsinki Declaration of 1975, as revised in 2000. If doubt exists whether the research was conducted in accordance with the Helsinki Declaration, the authors must explain the rationale for their approach and demonstrate that the institutional review body explicitly approved the doubtful aspects of the study. When reporting experiments on animals, authors should indicate whether the institutional and national guide for the care and use of laboratory animals was followed.
+            </p>
+            <a class="anchor" id="how-to-submit"></a>
+            <h2><span>How to Submit</span></h2>
+            <ol>
+                <li>Outline your submission using the Submission Outline Form. E-mail completed form to <a href="mailto:umjmed@gmail.com">umjmed@gmail.com</a> with subject heading “Completed Submission Outline Form” by <b>Nov. 2, 2020.</b></li>
+                <li>Authors will be notified of outline approval by Nov. 23, 2020. Once approved, the deadline for the manuscript first draft is <b>Jan. 4, 2021</b> to <a href="mailto:umjmed@gmail.com">umjmed@gmail.com.</a></li>
+                <li>First drafts will be reviewed by editorial team. Reviewer feedback will be returned to authors by Feb. 5, 2021. Deadline for second drafts is <b>Mar. 1, 2021.</b></li>
+                <li>Second drafts will be reviewed by faculty reviewers. Reviewer feedback will be returned to authors by Apr. 1, 2021. Deadline for third and final drafts is <b>Apr. 19, 2021.</b></li>
+            </ol>
+            <a class="anchor" id="peer-review-process"></a>
+            <h2><span>Peer Review Process</span></h2>
+            <p>
+                All submission outlines and manuscripts are subject to multiple rounds of blinded review conducted in duplicate. Both reviewers and authors are anonymized. Submission outlines, manuscripts first drafts, and manuscript third drafts are reviewed in duplicate by a senior and junior student editor. Different student editors will be assigned to a given manuscript at each stage of review (outline, first draft, third draft). Manuscript second drafts are reviewed by a faculty editor.
+            </p>
+            <a class="anchor" id="manuscript-requirements"></a>
+            <h2><span>Manuscript Requirements</span></h2>
+            <h4><span>Original Research Articles</span></h4>
+            <ul>
+                <li><b>Description:</b> original research articles presenting research done by the author(s). Research of any scientifically-accepted methodology will be considered.</li>
+                <li><b>Components:</b> abstract, introduction, methods and statistical analysis, results, discussion, acknowledgements, references, disclosures, and tables and figures.</li>
+                <li><b>Length:</b> &lt; 2000 words, excluding abstract, figures, tables and references. Longer papers considered case-by-case if exceptional factors apply.</li>
+            </ul>
+            <h4><span>Review Articles</span></h4>
+            <ul>
+                <li><b>Description:</b> reviews of existing literature including the following: systematic review, meta-analysis, literature review, narrative review.</li>
+                <li><b>Components:</b> abstract, citation selection criteria, data sources that are as current as possible, tables and figures are recommended, acknowledgements, references</li>
+                <li><b>Length:</b> &lt; 3000 words, excluding abstract, figures, tables and references. Longer papers considered case-by-case if exceptional factors apply.</li>
+            </ul>
+            <h4><span>Book Reviews</span></h4>
+            <ul>
+                <li><b>Description:</b> review of an existing book. It is not necessary to choose a book that is strictly medical. At minimum, the book should be related to medical practice.</li>
+                <li><b>Length:</b> &lt; 2000 words, excluding abstract, figures, tables and references. Longer papers considered case-by-case if exceptional factors apply.</li>
+            </ul>
+            <h4><span>Commentaries</span></h4>
+            <ul>
+                <li><b>Description:</b> short pieces describing a case of scientific/medical interest, social/ethical interest, or a case that is interesting for some other reason.</li>
+                <li><b>Length:</b> &lt; 1000 words excluding abstract.</li>
+            </ul>
+            <h4><span>Case Reports and Clinical Narratives</span></h4>
+            <ul>
+                <li><b>Description:</b> short pieces describing a case of scientific/medical interest, social/ethical interest, or a case that is interesting for some other reason.</li>
+                <li><b>Length:</b> &lt; 1000 words excluding abstract</li>
+            </ul>
+            <h4><span>Others</span></h4>
+            <ul>
+                <li><b>Description:</b> requirements for other manuscripts will be considered on a case-by-case basis given their unique content.</li>
+                <li><b>Length:</b> while no strict word limit will encompass all other types of submissions, we will generally aim for other submissions to follow a limit of &lt; 2000 words excluding abstract.</li>
+            </ul>
+            <a class="anchor" id="manuscript-formatting"></a>
+            <h2><span>Manuscript Formatting</span></h2>
+            <p>
+                All manuscripts should be submitted as Microsoft Word documents (both .doc or .docx files are acceptable). Please do not submit PDF files.
+            </p>
+            <p>
+                Font: Times New Roman size 12.
+            </p>
+            <p>
+                Please double-space with pages numbers in bottom right-hand corner.
+            </p>
+            <p>
+                Each page in the manuscript document must include continuous line numbers, including the title page, abstract, and references. In Microsoft Word, select the Layout tab and click on Line Numbers. From the drop-down menu, select Continuous.
+            </p>
+            <p>
+                Figures, tables, and pictures should be included at the end of the document.
+            </p>
+            <a class="anchor" id="title-page"></a>
+            <h2><span>Title Page</span></h2>
+            <p>All manuscripts require a title page including a title, list of authors, conflict of interest statement, corresponding authors’ contact information, 3-5 key words, and article word count.</p>
+            <p>Titles should be as short but complete as possible. Please include the academic degrees and affiliations of all authors including institution, department, and division for each author as applicable.</p>
+            <a class="anchor" id="abstract"></a>
+            <h2><span>Abstract</span></h2>
+            <p>Abstracts of original research articles and reviews (excluding book reviews) should be between 200-250 words. Such abstracts should be structured in the following order:</p>
+            <ul>
+                <li>Objective(s): describe the hypothesis or the purpose of the study</li>
+                <li>Methods: specify the study design and statistical methods</li>
+                <li>Results: present the outcomes and any statistical findings</li>
+                <li>Conclusions: convey the relevance and importance of the results</li>
+            </ul>
+            <a class="anchor" id="open-access-policy"></a>
+            <h2><span>Open Access Policy</span></h2>
+            <p>
+                The UMJM provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.
+            </p>
+            <a class="anchor" id="copyright-notice"></a>
+            <h2><span>Copyright Notice</span></h2>
+            <p>
+                Authors published in the UMJM retain copyright of their articles, including all drafts and final published version. By agreeing to publish in UMJM, authors grant the journal the right of first publication and distribution rights of the articles. Authors are free to submit their work to other publications in addition to UMJM, provided they acknowledge its initial publication in UMJM. UMJM is published online in the public domain. UMJM holds no legal responsibility as to how these materials are used by the public. Please ensure all authors, co-authors, and investigators have read and agree to these terms.
+            </p>
+            <a class="anchor" id="privacy-statement"></a>
+            <h2><span>Privacy Statement</span></h2>
+            <p>
+                The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party.
+            </p>
+            <a class="anchor" id="contact"></a>
+            <h2><span>Contact</span></h2>
+            <p>
+                For more information, please contact the Co-Editors in Chief at <a href="mailto:umjmed@gmail.com">umjmed@gmail.com</a>. You can also visit our Twitter page <a href="https://twitter.com/umjmed">@UMJMed</a>.
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+:ET
