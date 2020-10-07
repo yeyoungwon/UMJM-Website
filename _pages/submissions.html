@@ -210,3 +210,16 @@ layout: default
     </div>
 </div>
 </body>
+<script>
+    function fixnav() {
+        if (window.innerWidth < 768) {
+            document.getElementsByClassName('about-nav')[0].style.position = 'static';
+        }
+        else {
+            document.getElementsByClassName('about-nav')[0].style.position = 'sticky';
+        };
+        console.log(window.innerWidth);
+    };
+    fixnav();
+    window.addEventListener("resize", fixnav);
+</script>
