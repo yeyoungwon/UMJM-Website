@@ -5,11 +5,12 @@ layout: default
 ---
 <script>
     // fadeIn fades the abouteditors menu in
-    function fadeIn() { var i; for (i = 1; i < 4; i++) { document.getElementsByClassName('about-nav-link')[i].className += ' load' } }
+    // New entries in the abouteditors menu requires adding to i < x in the function below
+    function fadeIn() { var i; for (i = 1; i < 5; i++) { document.getElementsByClassName('about-nav-link')[i].className += ' load' } }
     fadeIn();
 </script>
 <body onload="fadeIn();">
-<div id="indexheader"></div>
+<div class="pageheader"></div>
 <div class="container">
     <div class="row">
         <div class="about-nav col-md-2">
@@ -81,7 +82,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="{{site.baseurl}}/assets/images/editors/victoria-lee-wing.png" />
                 </div>
                 <div class="editor-info">
                     <h4>Victoria Lee-Wang</h4>
@@ -138,7 +139,7 @@ layout: default
             </div>
 			<div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="{{site.baseurl}}/assets/images/editors/karam-al-bayati.jpg" />
                 </div>
                 <div class="editor-info">
                     <h4>Karam Al-Bayati</h4>
@@ -160,7 +161,7 @@ layout: default
             <h3 class="font-weight-bold spanborder"><span>IT and Design Team</span></h3>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="{{site.baseurl}}/assets/images/editors/ani-agar.jpg" />
                 </div>
                 <div class="editor-info">
                     <h4>Anirudh Agarwal</h4>
@@ -169,7 +170,7 @@ layout: default
             </div>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="{{site.baseurl}}/assets/images/editors/q.png" />
                 </div>
                 <div class="editor-info">
                     <h4>Qiming Hu</h4>
@@ -178,7 +179,7 @@ layout: default
             </div>
             <div class="editor-box">
                 <div class="editor-pic">
-                    <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    <img src="{{site.baseurl}}/assets/images/editors/alex-chin.jpg" />
                 </div>
                 <div class="editor-info">
                     <h4>Alex Chin</h4>
