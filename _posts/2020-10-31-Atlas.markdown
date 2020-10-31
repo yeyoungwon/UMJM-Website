@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Human Biomolecular Atlas Program: mapping human structure in more than 37 trillion dimensions"
+categories: [ Articles, Current Topics ]
+image: assets/images/V3C.jpg
+---
+
+Author: Graham McLeod MD 
+
+Biologists wielding transformative technologies can describe the human body in increasingly complex ways. Single-cell gene expression and metabolic proﬁles, and three-dimensional maps of molecular distribution in tissue, are increasingly feasible. It is hoped that such high-deﬁnition analyses could better illuminate disease states to bring new insights about pathophysiology and natural history of disease processes. New insights, in turn, could help reﬁne clinical descriptions of disease (e.g. revise diagnostic criteria) and contribute to generating new clinical therapies. But despite advancing biotechnology and accumulating knowledge of human biology, the enhanced characterization of disease states, especially from a clinically-salient perspective that must beware multiple aspects of disease, has been limited by lack of multi-disciplinary, interoperable framework to capture, integrate, and disseminate knowledge. The Fund Human Biomolecular Atlas Program (HuBMAP) is an ambitious eﬀort to create such a framework. HubMAP Is an NIH-funded initiative with a nine-ﬁgure budget and several-year timeline to produce a three-dimensional “atlas” that will characterize the human body at cellular and molecular levels of detail, in health and in many disease states. Here I provide an overview of the HubMAP Consortium and describe its potential impacts on clinical medicine.
+
+<a href = "/assets/documents/V3I1/V3I1A8.pdf"> Full Article </a>
