@@ -6,7 +6,7 @@ layout: default
 <script>
     // fadeIn fades the abouteditors menu in
     // New entries in the abouteditors menu requires adding to i < x in the function below
-    function fadeIn() { var i; for (i = 1; i < 5; i++) { document.getElementsByClassName('about-nav-link')[i].className += ' load' } };
+    function fadeIn() { var i; for (i = 1; i < 7; i++) { document.getElementsByClassName('about-nav-link')[i].className += ' load' } };
     fadeIn();
 </script>
 <body onload="fadeIn();">
@@ -17,58 +17,24 @@ layout: default
                 <h3 class="font-weight-bold spanborder"><span>About</span></h3>
                 <a href="/aboutjournal.html" class="about-nav-link"><h4><span>The Journal</span></h4></a>
                 <h4 class="about-nav-current-page"><span>The Editors</span></h4>
-                <a href="#editorial-team" class="about-nav-link"><h6><span>Editorial Team</span></h6></a>
-                <a href="#submission-editor-team" class="about-nav-link"><h6><span>Submission Editor Team</span></h6></a>
-                <a href="#it-design-team" class="about-nav-link"><h6><span>IT & Design Team</span></h6></a>
-                <a href="#social-media-team" class="about-nav-link"><h6><span>Social Media Team</span></h6></a>
+                <a href="#executive-editors" class="about-nav-link"><h6><span>Executive Editors</span></h6></a>
+                <a href="#submission-editors" class="about-nav-link"><h6><span>Submission Editors</span></h6></a>
+                <a href="#it-design" class="about-nav-link"><h6><span>IT & Design Team</span></h6></a>
+                <a href="#communications" class="about-nav-link"><h6><span>Communications</span></h6></a>
+                <a href="#faculty-advisor" class="about-nav-link"><h6><span>Faculty Advisor</span></h6></a>
+                <a href="#alumni" class="about-nav-link"><h6><span>Alumni</span></h6></a>
             </div>
 
             <div class="col-md-8" id="editor-list">
-                <a class="anchor" id="editorial-team"></a>
-                <h3 class="font-weight-bold spanborder "><span>Editorial Team</span></h3>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Megan Sorokopud-Jones</h4>
-                        <p class="excerpt">Co-Editor in Chief</p>
-                    </div>
-                </div>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Dov Kagan</h4>
-                        <p class="excerpt">Co-Editor in Chief</p>
-                    </div>
-                </div>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Emma Avery</h4>
-                        <p class="excerpt">Co-Founder</p>
-                    </div>
-                </div>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Graham McLeod</h4>
-                        <p class="excerpt">Co-Founder</p>
-                    </div>
-                </div>
+                <a class="anchor" id="executive-editors"></a>
+                <h3 class="font-weight-bold spanborder "><span>Executive Editors</span></h3>
                 <div class="editor-box">
                     <div class="editor-pic">
                         <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
                     </div>
                     <div class="editor-info">
                         <h4>Lindsay Bristow</h4>
-                        <p class="excerpt">Junior Chief Editor</p>
+                        <p class="excerpt">Co-Editor-in-Chief</p>
                     </div>
                 </div>
                 <div class="editor-box">
@@ -77,7 +43,7 @@ layout: default
                     </div>
                     <div class="editor-info">
                         <h4>Eagan Peters</h4>
-                        <p class="excerpt">Junior Chief Editor</p>
+                        <p class="excerpt">Co-Editor-in-Chief</p>
                     </div>
                 </div>
                 <div class="editor-box">
@@ -86,7 +52,7 @@ layout: default
                     </div>
                     <div class="editor-info">
                         <h4>Victoria Lee-Wing</h4>
-                        <p class="excerpt">Associate Editor</p>
+                        <p class="excerpt">Senior Associate Editor</p>
                     </div>
                 </div>
                 <div class="editor-box">
@@ -95,46 +61,37 @@ layout: default
                     </div>
                     <div class="editor-info">
                         <h4>Nebojsa Oravec</h4>
-                        <p class="excerpt">Associate Editor</p>
+                        <p class="excerpt">Senior Associate Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Danielle Judd</h4>
+                        <p class="excerpt">Junior Associate Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/editors/luke-sirant.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Luke Sirant</h4>
+                        <p class="excerpt">Senior Associate Editor</p>
                     </div>
                 </div>
 
-                <a class="anchor" id="submission-editor-team"></a>
-                <h3 class="font-weight-bold spanborder"><span>Submission Editor Team</span></h3>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Francis Diaz</h4>
-                        <p class="excerpt">Senior Submission Editor</p>
-                    </div>
-                </div>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Matt Stecy</h4>
-                        <p class="excerpt">Senior Submission Editor</p>
-                    </div>
-                </div>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Angus Lau</h4>
-                        <p class="excerpt">Senior Submission Editor</p>
-                    </div>
-                </div>
+                <a class="anchor" id="submission-editors"></a>
+                <h3 class="font-weight-bold spanborder"><span>Submission Editors</span></h3>
                 <div class="editor-box">
                     <div class="editor-pic">
                         <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
                     </div>
                     <div class="editor-info">
                         <h4>Kitty Toews</h4>
-                        <p class="excerpt">Junior Submission Editor</p>
+                        <p class="excerpt">Senior Submission Editor</p>
                     </div>
                 </div>
                 <div class="editor-box">
@@ -143,7 +100,7 @@ layout: default
                     </div>
                     <div class="editor-info">
                         <h4>Karam Al-Bayati</h4>
-                        <p class="excerpt">Junior Submission Editor</p>
+                        <p class="excerpt">Senior Submission Editor</p>
                     </div>
                 </div>
                 <div class="editor-box">
@@ -152,29 +109,46 @@ layout: default
                     </div>
                     <div class="editor-info">
                         <h4>Andrew Pierce</h4>
+                        <p class="excerpt">Senior Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Giorgio Karam</h4>
+                        <p class="excerpt">Junior Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Dave Xie</h4>
+                        <p class="excerpt">Junior Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/editors/sam-krishnan.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Sam Krishnan</h4>
                         <p class="excerpt">Junior Submission Editor</p>
                     </div>
                 </div>
 
-
-                <a class="anchor" id="it-design-team"></a>
-                <h3 class="font-weight-bold spanborder"><span>IT and Design Team</span></h3>
-                <div class="editor-box">
-                    <div class="editor-pic">
-                        <img src="{{site.baseurl}}/assets/images/editors/ani-agar.jpg" />
-                    </div>
-                    <div class="editor-info">
-                        <h4>Anirudh Agarwal</h4>
-                        <p class="excerpt">Chief Technology and Design Officer</p>
-                    </div>
-                </div>
+                <a class="anchor" id="it-design"></a>
+                <h3 class="font-weight-bold spanborder"><span>IT and Design</span></h3>
                 <div class="editor-box">
                     <div class="editor-pic">
                         <img src="{{site.baseurl}}/assets/images/editors/q.png" />
                     </div>
                     <div class="editor-info">
                         <h4>Qiming Hu</h4>
-                        <p class="excerpt">Senior Editor of Design & IT</p>
+                        <p class="excerpt">Chief Technology & Design Officer</p>
                     </div>
                 </div>
                 <div class="editor-box">
@@ -183,19 +157,151 @@ layout: default
                     </div>
                     <div class="editor-info">
                         <h4>Alex Chin</h4>
-                        <p class="excerpt">Junior Editor of Design & IT</p>
+                        <p class="excerpt">Senior IT & Design Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/editors/gem-newman.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Gem Newman</h4>
+                        <p class="excerpt">Junior IT & Design Editor</p>
                     </div>
                 </div>
 
-                <a class="anchor" id="social-media-team"></a>
-                <h3 class="font-weight-bold spanborder"><span>Social Media Team</span></h3>
+                <a class="anchor" id="communications"></a>
+                <h3 class="font-weight-bold spanborder"><span>Communications</span></h3>
                 <div class="editor-box">
                     <div class="editor-pic">
                         <img src="{{site.baseurl}}/assets/images/editors/amy-lee.png" />
                     </div>
                     <div class="editor-info">
                         <h4>Amy Lee</h4>
-                        <p class="excerpt">Social Media Representative</p>
+                        <p class="excerpt">Senior Communications Manager</p>
+                    </div>
+                </div>
+
+                <a class="anchor" id="faculty-advisor"></a>
+                <h3 class="font-weight-bold spanborder"><span>Faculty Advisor</span></h3>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/editors/william-libich.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Dr. William Libich</h4>
+                        <p class="excerpt">Faculty Advisor</p>
+                    </div>
+                </div>
+
+                <a class="anchor" id="alumni"></a>
+                <h3 class="font-weight-bold spanborder"><span>Alumni</span></h3>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Emma Avery</h4>
+                        <p class="excerpt">Co-Founder, Co-Editor-in-Chief</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Graham McLeod</h4>
+                        <p class="excerpt">Co-Founder, Co-Editor-in-Chief</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Megan Sorokopud-Jones</h4>
+                        <p class="excerpt">Co-Editor-in-Chief</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Dov Kagan</h4>
+                        <p class="excerpt">Co-Editor-in-Chief</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Pavel Yarmak</h4>
+                        <p class="excerpt">Chief Technology Officer</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Andrew Neufeld</h4>
+                        <p class="excerpt">Chief Design Officer</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/editors/ani-agar.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Anirudh Agarwal</h4>
+                        <p class="excerpt">Chief Technology & Design Officer</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Lana Tennenhouse</h4>
+                        <p class="excerpt">Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Liumei Liu</h4>
+                        <p class="excerpt">Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Francis Diaz</h4>
+                        <p class="excerpt">Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Matt Stecy</h4>
+                        <p class="excerpt">Submission Editor</p>
+                    </div>
+                </div>
+                <div class="editor-box">
+                    <div class="editor-pic">
+                        <img src="{{site.baseurl}}/assets/images/unknown.jpg" />
+                    </div>
+                    <div class="editor-info">
+                        <h4>Angus Lau</h4>
+                        <p class="excerpt">Submission Editor</p>
                     </div>
                 </div>
             </div>
