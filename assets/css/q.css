@@ -92,12 +92,13 @@ a.anchor {
     margin-bottom:10px;
 }
 .editor-pic {
-    height:200px;
-    min-width:200px;
+    height: 200px;
+    min-width: 200px;
 }
 .editor-pic img {
     height:200px;
     min-width:200px;
+    object-fit: cover;
 }
 .editor-info {
 	display: block
