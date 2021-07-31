@@ -105,7 +105,7 @@ description: "University of Manitoba Journal of Medicine"
     <div class="col-md-8 main-loop">
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
 
-        <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skip the first 4 posts displayed above -->
+        <!-- Now the rest of the posts with the usual loop but with an offset: 5 on the first page so we can skip the 5 posts displayed above -->
         {% for post in paginator.posts | offset: 5 %}
             {% include main-loop-card.html %}
         {% endfor %}
