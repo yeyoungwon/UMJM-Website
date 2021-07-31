@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The role of frailty in acute care assessment during the COVID-19 pandemic and beyond: A rapid review"
+categories: [ Articles, Reviews ]
+image: assets/images/V4C.jpg
+---
+
+Authors: Kevin Boreskie MSc, Jacqueline Hay MSc, Pawel Garda BSc
+
+Healthcare strain due to the novel coronavirus (COVID-19) pandemic has left clinicians struggling to manage patient care and identify those most at risk of COVID-19 mortality. Although chronological age-based triage strategies have been adopted, these practices have been criticized for being ageist. Improved care for each unique patient with COVID-19 may be achieved through the addition of frailty assessment in acute care. While current data demonstrates that hospitalized patients with frailty and COVID-19 are at increased risk for adverse outcomes, most data thus far has not considered patient treatment nor illness severity analyses. Therefore, frailty assessment is recommended as an adjunct tool for directing patient care in addition to factors such as acute illness severity and the presence of comorbidities. Moving forward, incorporating frailty status into patient decision-making and the analyses of COVID-19 therapies are warranted to ensure that approaches are efficacious in the most vulnerable patients. Clinicians in acute care should familiarize themselves with frailty and its assessment to improve care during the COVID-19 pandemic and beyond.
+
+_Keywords: frailty, COVID-19, ageing, prognosis, risk stratification_
+
+<a href = "/assets/documents/V4I1/V4I1A2.pdf"> Full Article </a>
