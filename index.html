@@ -13,10 +13,11 @@ description: "University of Manitoba Journal of Medicine"
     
 {% if page.url == "/" %}
     
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<!-- Begin post excerpts, let's highlight the first 6 posts (main issue plus 5 articles) on top -->
+{% assign highlighted = 6 %}
 
 <div class="row remove-site-content-margin">
-    <!-- latest post -->
+    <!-- latest post (full issue) -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-4">
         <div class="card border-0 mb-4 box-shadow">   
@@ -47,7 +48,9 @@ description: "University of Manitoba Journal of Medicine"
     </div>
 
     <div class="col-md-8" style="padding-left:50px;">
-        {% for post in site.posts offset:1 limit:4 %}
+        <!-- remaining highlighted posts -->
+        {% assign articles = highlighted | minus:1 %}
+        {% for post in site.posts offset:1 limit:articles %}
             <div class="np-2 mb-3 d-flex align-items-center">
                 <!--temporarily removed images on articles-->
                 <!--{% if post.image %}
@@ -105,8 +108,8 @@ description: "University of Manitoba Journal of Medicine"
     <div class="col-md-8 main-loop">
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
 
-        <!-- Now the rest of the posts with the usual loop but with an offset: 5 on the first page so we can skip the 5 posts displayed above -->
-        {% for post in paginator.posts | offset: 5 %}
+        <!-- Now the rest of the posts with the usual loop but with an offset:highlighted on the first page so we can skip the posts displayed above -->
+        {% for post in paginator.posts offset:highlighted %}
             {% include main-loop-card.html %}
         {% endfor %}
 
