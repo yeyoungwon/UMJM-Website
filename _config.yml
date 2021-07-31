@@ -2,7 +2,7 @@
 name: 'University of Manitoba Journal of Medicine'
 description: 'University of Manitoba Journal of Medicine'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon/favicon-new.ico'
+favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
 disqus: ''
 email: 'umjmed@gmail.com'
