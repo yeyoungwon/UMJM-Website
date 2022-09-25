@@ -1,0 +1,14 @@
+---
+layout: post
+title: "By the sea"
+categories: [ Articles, Short Stories ]
+image: assets/images/V5C.jpg
+---
+
+Authors: Monica Ghebrial BHSc
+
+This short story is inspired by my grandmother’s childhood during the 1940s cholera epidemic in rural Egypt. Despite hearing stories about the epidemic since my childhood, it was only through the current pandemic that my appreciation and understanding of the social and psychological impacts of that event started to take shape. I am humbled to have had the privilege to learn from and hear first-hand these stories from my grandmother, and I hope that through writing this story I am able to pass on her voice. My goal is to share this perspective and knowledge with the medical community. The story illustrates the lifelong and intergenerational impact of illness on the well-being of individuals, families, and society as a whole. Understanding this is especially important in light of the pandemic we are currently living through. I also hope that my story highlights the power of narrative in bringing healing in medicine and inspires others to share their own stories.
+
+_Keywords: pandemic, memory, consciousness, healing_
+
+[Full Story](/assets/documents/V5I1/V5I1A6.pdf)

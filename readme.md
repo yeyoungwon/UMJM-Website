@@ -36,6 +36,17 @@ You'll typically be making changes to content in `_posts`, `_pages`, `assets`, a
 Jekyll's `build` command (this is what will eventually go up to the UMJM website), and if you modify this content
 directly your changes will be lost next time you build.
 
+### Creating a New Volume/Issue
+
+1. Create individual PDFs (e.g., using LaTeX) for each article and a single PDF of the whole issue
+2. Add final approved PDFs into the appropriate directory (`assets/documents/VxIy`)
+3. Add the cover image to the `assets/images/` directory
+4. Create a page in markdown format (with cover image) for the whole issue in `_posts` (linking the cover image and PDF appropriately)
+5. Create a page in markdown format (with cover image) for each article in `_posts` (linking the cover image and PDF appropriately)
+6. Test your changes with `jekyll serve`
+7. Build the website with `jekyll build -b 'https://umjm.ca'`
+8. Upload the contents of `_site` to the `public_html` directory at ftp://ftp.umja.ca
+
 ## Testing
 
 After making your changes, run `jekyll serve`. This will compile your changes and host the site locally.
