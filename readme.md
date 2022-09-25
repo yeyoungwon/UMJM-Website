@@ -44,7 +44,7 @@ directly your changes will be lost next time you build.
 4. Create a page in markdown format (with cover image) for the whole issue in `_posts` (linking the cover image and PDF appropriately)
 5. Create a page in markdown format (with cover image) for each article in `_posts` (linking the cover image and PDF appropriately)
 6. Test your changes with `jekyll serve`
-7. Build the website with `jekyll build -b 'https://umjm.ca'`
+7. Build the website with `jekyll build`
 8. Upload the contents of `_site` to the `public_html` directory at ftp://ftp.umja.ca
 
 ## Testing
@@ -58,11 +58,8 @@ Then navigate to http://127.0.0.1:4000 to view the site and verify that your cha
 Once your changes are complete, build the final version with:
 
 ```
-jekyll build -b 'https://umjm.ca'
+jekyll build
 ```
-
-The `-b 'https://umjm.ca'` ensures that our Lunr search indices are compiled to point to the correct page endpoints.
-Without it, all search results will link to "http://localhost:4000" instead of "https://umjm.ca".
 
 ## Deployment
 
